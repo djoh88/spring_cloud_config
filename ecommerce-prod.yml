@@ -1,0 +1,4 @@
+token:
+  expiration_time : 86400000
+  secret: djoh1234!@_prod
+
